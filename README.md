@@ -1,2 +1,6 @@
 # multi-tier-arch-staging
-multi-tier-arch-staging(ALB &amp; webservers)
+Creating a multi-tier application that will deploy alb and webserver
+
+## This project is deploying multi services in aws cloud 
+
+
